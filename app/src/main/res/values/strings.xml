@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string name="starbuzz">Select</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+    <string name="title_activity_drink1">Drink1</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks</string>
+</resources>
